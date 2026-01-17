@@ -84,18 +84,19 @@ Swagger Docs: http://localhost:8000/docs
 
 
 ## 🕒 Scheduler
+
 This project uses APScheduler to run background jobs such as:
-Periodic tasks
-Automated database operations
-System maintenance jobs
+Periodic tasks,
+Automated database operations,
+System maintenance jobs,
 Schedulers run alongside the API without blocking requests.
 
 
 ---
 ## 📌 Future Improvements
-Authentication (JWT)
-Task persistence
-Admin dashboard
-Monitoring & logging
+Authentication (JWT),
+Task persistence,
+Admin dashboard,
+Monitoring & logging.
 
-Say the word.
+
