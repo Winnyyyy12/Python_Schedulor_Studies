@@ -92,9 +92,10 @@ Schedulers run alongside the API without blocking requests.
 
 
 ---
-
-- Polish this for recruiters  
-- Add architecture diagrams  
-- Or prep a **perfect GitHub profile README**
+## 📌 Future Improvements
+Authentication (JWT)
+Task persistence
+Admin dashboard
+Monitoring & logging
 
 Say the word.
